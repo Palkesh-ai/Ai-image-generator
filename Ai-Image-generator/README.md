@@ -1,5 +1,5 @@
 "Backend"
-Image Generation Server
+#Image Generation Server
 This project is a simple Express.js server that provides an API endpoint for generating images using NVIDIA's Stability AI Stable Diffusion model. The server makes use of Axios for HTTP requests and dotenv for environment variable management.
 
 Table of Contents
